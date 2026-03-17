@@ -1,0 +1,4 @@
+2026-03-17 08:17:45.466 [info] Started local extension host with pid 4836.
+2026-03-17 08:17:48.835 [info] [perf] Render performance baseline is 20ms
+2026-03-17 08:19:01.230 [error] [File Watcher ('parcel')] Unexpected error: inotify_add_watch on '/home/avi/.config/Code - OSS/User/workspaceStorage/1771996074094' failed: No such file or directory (EUNKNOWN) (path: /home/avi)
+2026-03-17 08:19:01.233 [error] [File Watcher (universal)] inotify_add_watch on '/home/avi/.config/Code - OSS/User/workspaceStorage/1771996074094' failed: No such file or directory

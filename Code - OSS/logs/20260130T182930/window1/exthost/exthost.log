@@ -1,0 +1,49 @@
+2026-01-30 18:29:32.211 [info] Extension host with pid 129690 started
+2026-01-30 18:29:32.255 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2026-01-30 18:29:32.278 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2026-01-30 18:29:32.318 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2026-01-30 18:29:32.420 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2026-01-30 18:29:32.474 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2026-01-30 18:29:32.556 [info] Eager extensions activated
+2026-01-30 18:29:32.557 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2026-01-30 18:29:32.559 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2026-01-30 18:30:17.864 [info] Extension host terminating: renderer closed the MessagePort
+2026-01-30 18:30:17.875 [info] Extension host with pid 129690 exiting with code 0
+2026-01-30 18:30:19.889 [info] Extension host with pid 133728 started
+2026-01-30 18:30:19.889 [info] Skipping acquiring lock for /home/avi/.config/Code - OSS/User/workspaceStorage/99cf48dfb6a6fc85de1ba272c3fe4508.
+2026-01-30 18:30:19.928 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2026-01-30 18:30:19.975 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2026-01-30 18:30:20.060 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*'
+2026-01-30 18:30:20.080 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2026-01-30 18:30:20.180 [info] Eager extensions activated
+2026-01-30 18:30:20.333 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2026-01-30 18:30:20.337 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2026-01-30 18:30:29.578 [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: 'api', root cause: vscode.github
+2026-01-30 18:30:29.842 [warning] [Decorations] CAPPING events from decorations provider vscode.git 258
+2026-01-30 18:30:29.965 [warning] [Decorations] CAPPING events from decorations provider vscode.git 258
+2026-01-30 18:36:20.514 [warning] [Decorations] CAPPING events from decorations provider vscode.git 258
+2026-01-30 18:36:25.552 [warning] [Decorations] CAPPING events from decorations provider vscode.git 258
+2026-01-30 18:36:30.589 [warning] [Decorations] CAPPING events from decorations provider vscode.git 258
+2026-01-30 18:36:51.917 [warning] [Decorations] CAPPING events from decorations provider vscode.git 258
+2026-01-30 18:36:58.340 [warning] [Decorations] CAPPING events from decorations provider vscode.git 258
+2026-01-30 18:37:03.375 [warning] [Decorations] CAPPING events from decorations provider vscode.git 258
+2026-01-30 18:38:30.357 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+2026-01-30 18:38:30.373 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2026-01-30 18:38:30.478 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2026-01-30 18:38:34.613 [warning] [Decorations] CAPPING events from decorations provider vscode.git 258
+2026-01-30 18:42:46.862 [warning] [Decorations] CAPPING events from decorations provider vscode.git 258
+2026-01-30 18:42:51.908 [warning] [Decorations] CAPPING events from decorations provider vscode.git 258
+2026-01-30 18:42:56.961 [warning] [Decorations] CAPPING events from decorations provider vscode.git 258
+2026-01-30 18:43:00.021 [warning] [Decorations] CAPPING events from decorations provider vscode.git 258
+2026-01-30 18:43:01.183 [error] Error: Failed to execute git
+	at t.Git._exec (/usr/lib/code/extensions/git/dist/main.js:2:150913)
+	at async t.Git.exec (/usr/lib/code/extensions/git/dist/main.js:2:150036)
+	at async z.exec (/usr/lib/code/extensions/git/dist/main.js:2:155877)
+	at async z.addRemote (/usr/lib/code/extensions/git/dist/main.js:2:167498)
+	at async /usr/lib/code/extensions/git/dist/main.js:2:772500
+	at async $.retryRun (/usr/lib/code/extensions/git/dist/main.js:2:783031)
+	at async $.run (/usr/lib/code/extensions/git/dist/main.js:2:780440)
+	at async $.addRemote (/usr/lib/code/extensions/git/dist/main.js:2:772448)
+	at async file:///usr/lib/code/extensions/github/dist/extension.js:2:178588
+2026-01-30 18:56:13.776 [info] Extension host terminating: renderer closed the MessagePort
+2026-01-30 18:56:13.795 [info] Extension host with pid 133728 exiting with code 0

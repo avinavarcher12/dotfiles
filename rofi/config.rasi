@@ -1,0 +1,23 @@
+configuration {
+	// modes: "window,run,drun";
+    show-icons:      true;
+    display-drun:    "";
+    disable-history: false;
+	terminal: "alacritty";
+}
+
+listview {
+	columns: 1;
+	lines:5;
+}
+
+window {
+	height: 75%;
+}
+
+
+//@theme "/home/notarkhit/.config/rofi/themes/dracula-theme.rasi"
+
+//@theme "/home/notarkhit/.config/rofi/themes/nord.rasi"
+
+//@theme "/home/notarkhit/.config/rofi/themes/rounded-nord-dark.rasi"

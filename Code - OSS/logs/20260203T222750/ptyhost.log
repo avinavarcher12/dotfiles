@@ -1,0 +1,6 @@
+2026-02-03 22:27:52.246 [info] Revived process, old id 99cf48dfb6a6fc85de1ba272c3fe4508-1 -> new id 1
+2026-02-03 22:27:52.499 [info] Expanding terminal instance, old id 99cf48dfb6a6fc85de1ba272c3fe4508-1 -> new id 1
+2026-02-03 22:27:53.150 [warning] Persistent process "1": Process had no disconnect runners but was an orphan
+2026-02-03 22:27:53.150 [info] Persistent process reconnection "1"
+2026-02-03 22:27:53.180 [error] Failed to set sticky bit on /tmp/avi-code-oss-zsh: Error: ENOENT: no such file or directory, chmod '/tmp/avi-code-oss-zsh'
+2026-02-03 22:27:53.197 [info] Persistent process "1": Replaying 900 chars and 1 size events

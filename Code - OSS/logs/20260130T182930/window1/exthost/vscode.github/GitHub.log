@@ -1,0 +1,8 @@
+2026-01-30 18:29:32.580 [info] Log level: Info
+2026-01-30 18:30:20.371 [info] Log level: Info
+2026-01-30 18:30:29.969 [warning] [GitHubBranchProtectionProvider][updateRepositoryBranchProtection] Failed to update repository branch protection: No GitHub authentication session available.
+2026-01-30 18:30:30.437 [warning] [GitHubBranchProtectionProvider][updateRepositoryBranchProtection] Failed to update repository branch protection: No GitHub authentication session available.
+2026-01-30 18:30:30.499 [warning] [GitHubBranchProtectionProvider][updateRepositoryBranchProtection] Failed to update repository branch protection: No GitHub authentication session available.
+2026-01-30 18:51:05.933 [warning] [GitHubSourceControlHistoryItemDetailsProvider][_getCommitAuthor] Failed to get commit author for notarkhit/dotfiles/e1ec6b74901655d4e1dc1c11599697a132846fe6: TypeError: Cannot read properties of null (reading 'author')
+2026-01-30 18:55:33.392 [warning] [GitHubSourceControlHistoryItemDetailsProvider][_getCommitAuthor] Failed to get commit author for notarkhit/dotfiles/e1ec6b74901655d4e1dc1c11599697a132846fe6: TypeError: Cannot read properties of null (reading 'author')
+2026-01-30 18:55:57.758 [warning] [GitHubSourceControlHistoryItemDetailsProvider][_getCommitAuthor] Failed to get commit author for notarkhit/dotfiles/5c509dabd7440041738231083d0fc1f3365c163b: TypeError: Cannot read properties of null (reading 'author')

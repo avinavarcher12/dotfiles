@@ -1,0 +1,2 @@
+2026-03-17 08:19:01.234 [error] [File Watcher ('parcel')] Unexpected error: inotify_add_watch on '/home/avi/.config/Code - OSS/User/workspaceStorage/1771996074094' failed: No such file or directory (EUNKNOWN) (path: /home/avi)
+2026-03-17 08:19:01.234 [error] [File Watcher (universal)] inotify_add_watch on '/home/avi/.config/Code - OSS/User/workspaceStorage/1771996074094' failed: No such file or directory
