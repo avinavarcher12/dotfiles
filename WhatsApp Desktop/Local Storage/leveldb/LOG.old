@@ -1,3 +1,5 @@
-2026/02/06-20:06:53.526 12006 Reusing MANIFEST /home/avi/.config/WhatsApp Desktop/Local Storage/leveldb/MANIFEST-000001
-2026/02/06-20:06:53.536 12006 Recovering log #4
-2026/02/06-20:06:53.536 12006 Reusing old log /home/avi/.config/WhatsApp Desktop/Local Storage/leveldb/000004.log 
+2026/02/07-08:28:13.662 b9c Reusing MANIFEST /home/avi/.config/WhatsApp Desktop/Local Storage/leveldb/MANIFEST-000001
+2026/02/07-08:28:13.671 b9c Recovering log #4
+2026/02/07-08:28:13.672 b9c Reusing old log /home/avi/.config/WhatsApp Desktop/Local Storage/leveldb/000004.log 
+2026/02/07-08:29:30.282 b9c Level-0 table #7: started
+2026/02/07-08:29:30.284 b9c Level-0 table #7: 17946 bytes OK
