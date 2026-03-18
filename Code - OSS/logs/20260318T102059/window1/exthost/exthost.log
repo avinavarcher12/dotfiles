@@ -1,0 +1,13 @@
+2026-03-18 10:21:01.354 [info] Extension host with pid 7214 started
+2026-03-18 10:21:01.354 [info] Skipping acquiring lock for /home/avi/.config/Code - OSS/User/workspaceStorage/99cf48dfb6a6fc85de1ba272c3fe4508.
+2026-03-18 10:21:01.544 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2026-03-18 10:21:01.566 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2026-03-18 10:21:01.723 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2026-03-18 10:21:01.820 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2026-03-18 10:21:01.857 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2026-03-18 10:21:01.858 [info] ExtensionService#_doActivateExtension vscode.terminal-suggest, startup: false, activationEvent: 'onTerminalShellIntegration:*'
+2026-03-18 10:21:02.012 [info] Eager extensions activated
+2026-03-18 10:21:02.071 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2026-03-18 10:21:02.073 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2026-03-18 10:22:47.649 [info] Extension host terminating: renderer closed the MessagePort
+2026-03-18 10:22:47.658 [info] Extension host with pid 7214 exiting with code 0

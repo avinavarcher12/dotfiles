@@ -1,0 +1,4 @@
+2026-03-18 10:21:00.900 [info] Started local extension host with pid 7214.
+2026-03-18 10:21:03.869 [info] [perf] Render performance baseline is 20ms
+2026-03-18 10:22:12.273 [error] [text file model] handleSaveError(0) - exit - resulted in a save error: Error: Unable to write file '/home/avi/.config/hypr/hyprland.conf' (NoPermissions (FileSystemError): Error: EACCES: permission denied, open '/home/avi/.config/hypr/hyprland.conf') file:///home/avi/.config/hypr/hyprland.conf
+2026-03-18 10:22:14.594 [error] [text file model] handleSaveError(0) - exit - resulted in a save error: Error: Unable to write file '/home/avi/.config/hypr/hyprland.conf' (NoPermissions (FileSystemError): Error: EACCES: permission denied, open '/home/avi/.config/hypr/hyprland.conf') file:///home/avi/.config/hypr/hyprland.conf
