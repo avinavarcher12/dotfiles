@@ -1,4 +1,0 @@
-2026-02-25 10:37:55.220 [info] Log level: Info
-2026-02-25 10:38:12.340 [info] Log level: Info
-2026-02-25 10:38:25.668 [warning] [GitHubSourceControlHistoryItemDetailsProvider][_getCommitAuthor] Failed to get commit author for notarkhit/dotfiles/5c509dabd7440041738231083d0fc1f3365c163b: TypeError: Cannot read properties of null (reading 'author')
-2026-02-25 10:39:03.118 [info] Log level: Info
